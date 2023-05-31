@@ -1,6 +1,7 @@
 # Three.js Project Template
 
-This template create a simple Three.js scene with a box object and a lil-gui to control the material color:
+This template creates a simple Three.js scene with a box object and a lil-gui to control the material color:
+
 <img width="954" alt="threejs-project-template-output" src="https://github.com/bytesbysophie/threejs-project-template/assets/28394378/0d4f2fef-d54f-4f29-b829-ae98fbf7a832">
 
 Based on the templates from THREE.JS Journey by Bruno Simon
